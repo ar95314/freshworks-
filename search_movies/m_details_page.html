@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Movies Detail</title>
+    <link rel="stylesheet" href="controler/css/style1.css">
+    <style >
+      table {
+        border-collapse: collapse;
+        width: 100%;
+        border: 3px solid rgb(0, 0, 0);
+      }
+
+      th, td {
+        text-align: left;
+        padding: 8px;
+      }   
+    </style>
+  </head>
+  <body>
+    <h1 style="text-align:center">Movies Details</h1>
+    <div class="container">
+      <table class="details_table">
+        <tr>
+          <th>Title</th>
+          <td id="movie_title"></td>
+        </tr>
+        <tr>
+          <th>Year</th>
+          <td id="movie_year"></td>
+        </tr>
+        <tr>
+          <th>Plot</th>
+          <td id="movie_plot"></td>
+        </tr>
+        <tr>
+          <th>Actor</th>
+          <td id="movie_act"></td>
+        </tr>
+        <tr>
+          <th>Director</th>
+          <td id="movie_dir"></td>
+        </tr>
+        <tr>
+          <th>Genre</th>
+          <td id="movie_genre"></td>
+        </tr>
+        <tr>
+          <th>Writer</th>
+          <td id="movie_writer"></td>
+        </tr>
+    </table>
+    </div>
+  </body>
+  <script src="controler/js/fetch_details.js" ></script>
+</html>
