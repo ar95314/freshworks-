@@ -1,7 +1,7 @@
 # freshworks-
 **FRESH WORK TASK**
 **1 MErge Json DATA***
-(a) Three json files has been created and named as **Data1.json, Data2.json, Data3.json**.
+(a) Three json files has been created and named as **Data1.json, Data2.json, Data3.json**.<br>
 (b) **backend.py** python file has been created and given details o merge the data from these three files.
 (c) Merged data has been stored in **merge.json** file
 (d) Technologies used to merge is python
