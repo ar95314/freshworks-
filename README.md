@@ -1,6 +1,9 @@
-# freshworks-
+# freshworks-.<br>
+
 **FRESH WORK TASK**
-**1 MErge Json DATA***
+
+**1 MErge Json DATA**.<br>
+
 (a) Three json files has been created and named as **Data1.json, Data2.json, Data3.json**.<br>
 (b) **backend.py** python file has been created and given details o merge the data from these three files..<br>
 (c) Merged data has been stored in **merge.json** file..<br>
@@ -9,7 +12,7 @@
 
 ** To Run the application we need visual studio code as a IDE and in the terminal we can run the file useing (Backend.py) command and out put will be displayed in the screen**
 
-**Movie_Wiki**
+**2 Movie_Wiki**
 
 (a) Technologies used as HTML5, CSS, and Javascript..<br>
 (b) index.html file has been created to search page where user can search for movies and attached list of movies. will be fetched useing scipts written in js file..<br>
