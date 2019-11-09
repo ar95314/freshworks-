@@ -2,7 +2,7 @@
 
 **FRESH WORK TASK**
 
-**1 MErge Json DATA**.<br>
+**1 Merge json DATA**.<br>
 
 (a) Three json files has been created and named as **Data1.json, Data2.json, Data3.json**.<br>
 (b) **backend.py** python file has been created and given details o merge the data from these three files..<br>
